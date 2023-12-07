@@ -2,6 +2,7 @@
 @using BlazorAuth.Web.Services;
 @using Radzen.Blazor
 @using Radzen;
+@using BlazorAuth.Web.Services.Auth;
 
 @inject BlazorAppLoginService BlazorAppLoginService
 @inject NavigationManager navigation
@@ -19,6 +20,10 @@
                 <label for="exampleInputPassword1">Senha</label>
                 <input type="password" class="form-control" @bind="senha">
             </div>
+            @if (loginFailed)
+            {
+                <p style="color:red;margin-top:10px">Email ou senha incorretos</p>
+            }
             <br />
 
             <button type="submit" @onclick="LoginAsync" class="btn btn-primary">Entrar</button>

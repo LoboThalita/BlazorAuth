@@ -1,4 +1,6 @@
 using BlazorAuth.Web.Services;
+using BlazorAuth.Web.Services.Auth;
+using BlazorAuth.Web.Services.Interfaces;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Components.Web;
@@ -17,6 +19,8 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddTransient<BlazorAppLoginService>();
 builder.Services.AddScoped<AuthenticationStateProvider, CustomBlazorAuthStateProvider>();
 builder.Services.AddTransient<IUserService, UserService>();
+
+builder.Services.AddScoped<IProdutoService, ProdutoService>();
 
 var app = builder.Build();
 

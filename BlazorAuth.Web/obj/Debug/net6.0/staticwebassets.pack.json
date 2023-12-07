@@ -5,6 +5,106 @@
       "PackagePath": "staticwebassets\\BlazorAuth.Web.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Beleza\\Beleza1.png",
+      "PackagePath": "staticwebassets\\Imagens\\Beleza\\Beleza1.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Beleza\\Beleza2.png",
+      "PackagePath": "staticwebassets\\Imagens\\Beleza\\Beleza2.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Beleza\\Beleza3.png",
+      "PackagePath": "staticwebassets\\Imagens\\Beleza\\Beleza3.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Beleza\\Beleza4.png",
+      "PackagePath": "staticwebassets\\Imagens\\Beleza\\Beleza4.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Beleza\\Beleza5.png",
+      "PackagePath": "staticwebassets\\Imagens\\Beleza\\Beleza5.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Calcados\\calcado1.png",
+      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado1.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Calcados\\calcado2.png",
+      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado2.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Calcados\\calcado3.png",
+      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado3.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Calcados\\calcado4.png",
+      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado4.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Calcados\\calcado5.png",
+      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado5.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Calcados\\calcado6.png",
+      "PackagePath": "staticwebassets\\Imagens\\Calcados\\calcado6.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Eletronicos\\eletronico1.png",
+      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\eletronico1.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Eletronicos\\eletronico2.png",
+      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\eletronico2.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Eletronicos\\eletronico3.png",
+      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\eletronico3.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Eletronicos\\eletronico4.png",
+      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\eletronico4.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Eletronicos\\eletronico5.png",
+      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\eletronico5.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Eletronicos\\tecnologia6.png",
+      "PackagePath": "staticwebassets\\Imagens\\Eletronicos\\tecnologia6.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Moveis\\moveis1.png",
+      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis1.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Moveis\\moveis2.png",
+      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis2.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Moveis\\moveis3.png",
+      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis3.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Moveis\\moveis4.png",
+      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis4.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Moveis\\moveis6.png",
+      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis6.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Imagens\\Moveis\\moveis7.png",
+      "PackagePath": "staticwebassets\\Imagens\\Moveis\\moveis7.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\Spinner-2.gif",
+      "PackagePath": "staticwebassets\\Spinner-2.gif"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\blzshopping3.jpg",
+      "PackagePath": "staticwebassets\\blzshopping3.jpg"
+    },
+    {
       "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
@@ -55,6 +155,14 @@
     {
       "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\wwwroot\\js\\CarrinhoCompraFunctions.js",
+      "PackagePath": "staticwebassets\\js\\CarrinhoCompraFunctions.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlazorAuth.Web.Microsoft.AspNetCore.StaticWebAssets.props",

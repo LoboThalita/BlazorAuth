@@ -1,4 +1,5 @@
 ﻿@using BlazorAuth.Web.Services;
+@using BlazorAuth.Web.Services.Auth;
 @inherits LayoutComponentBase
 
 @inject BlazorAppLoginService BlazorAppLoginService
@@ -35,6 +36,6 @@
 {
     private async Task OnLogoutAsync()
     {
-        //await BlazorAppLoginService.LogoutAsync();
+        await BlazorAppLoginService.LogoutAsync();
     }
 }

@@ -20,12 +20,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Pages/ExibirProdutos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhpYmlyUHJvZHV0b3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/ExibirErro.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV4aWJpckVycm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/ExibirSpinner.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV4aWJpclNwaW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/ProdutoCategoriaNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2R1dG9DYXRlZ29yaWFOYXZNZW51LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/SurveyPrompt.razor]

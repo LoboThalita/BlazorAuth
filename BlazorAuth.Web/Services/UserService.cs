@@ -1,4 +1,6 @@
 ﻿using BlazorAuth.Web.Data;
+using BlazorAuth.Web.Services.Auth;
+using BlazorAuth.Web.Services.Interfaces;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 
@@ -22,7 +24,7 @@ public class UserService : IUserService
         {
             Login = "admin",
             Roles = UserRoles.Admin,
-            Password = configuration.GetValue<string>("AdminPwd")
+            Password = "1234"
         };
         var regularUser = new UserDto()
         {
