@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rBXUWI2Svpr/cPraoV5LEwHu/sRVCcha+kcxuaskHiyPVHGKpVZXU4V+mkhSSSqhmc4WbvrWncd0+kCpWWOMCA==",
+  "dgSpecHash": "xgsC6chjRaKnA9WP0ff0POW0k1kSYW/7Fyi57lHRdFRRBGVN9S1wyOQYxqJ0BrZifwjr4e2wXgiSzecnJcliTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\thalita.paz\\Documents\\ESTUDOS\\BLAZOR\\BlazorAuth\\BlazorAuth.Web\\BlazorAuth.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\thalita.paz\\.nuget\\packages\\blazored.localstorage\\4.4.0\\blazored.localstorage.4.4.0.nupkg.sha512",
     "C:\\Users\\thalita.paz\\.nuget\\packages\\dartsassbuilder\\1.0.0\\dartsassbuilder.1.0.0.nupkg.sha512",
     "C:\\Users\\thalita.paz\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.25\\microsoft.aspnetcore.authentication.jwtbearer.6.0.25.nupkg.sha512",
     "C:\\Users\\thalita.paz\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0\\microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",

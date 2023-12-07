@@ -52,3 +52,6 @@ C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Web\obj\Debu
 C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Web\bin\Debug\net6.0\BlazorAuth.Models.dll
 C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Web\bin\Debug\net6.0\BlazorAuth.Models.pdb
 C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Web\obj\Debug\net6.0\scopedcss\Pages\Login.razor.rz.scp.css
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Web\obj\Debug\net6.0\scopedcss\Shared\ExibirSpinner.razor.rz.scp.css
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Web\obj\Debug\net6.0\scopedcss\Shared\ProdutoCategoriaNavMenu.razor.rz.scp.css
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Web\bin\Debug\net6.0\Blazored.LocalStorage.dll

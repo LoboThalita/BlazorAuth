@@ -9,6 +9,7 @@
       "BlazorAuth.Web/1.0.0": {
         "dependencies": {
           "BlazorAuth.Models": "1.0.0",
+          "Blazored.LocalStorage": "4.4.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.25",
           "Radzen.Blazor": "4.22.1",
           "Swashbuckle.AspNetCore": "6.2.3",
@@ -16,6 +17,17 @@
         },
         "runtime": {
           "BlazorAuth.Web.dll": {}
+        }
+      },
+      "Blazored.LocalStorage/4.4.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Blazored.LocalStorage.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "DartSassBuilder/1.0.0": {},
@@ -279,6 +291,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Blazored.LocalStorage/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zuXZB4/WW3Pr1761peemffdkjt09lbOP1wAkSDTKl7BTbA9V5e8LxS6MNfmyHW+BJzXrNDq90E2Y+AfIfnIbWQ==",
+      "path": "blazored.localstorage/4.4.0",
+      "hashPath": "blazored.localstorage.4.4.0.nupkg.sha512"
     },
     "DartSassBuilder/1.0.0": {
       "type": "package",

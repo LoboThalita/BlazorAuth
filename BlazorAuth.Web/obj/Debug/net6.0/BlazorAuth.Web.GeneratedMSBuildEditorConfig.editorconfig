@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Pages/CarrinhaCompra.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FycmluaGFDb21wcmEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Pages/Catalogo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0YWxvZ28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Pages/ExibirProdutos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhpYmlyUHJvZHV0b3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,16 +36,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Pages/ProdutoDetalhes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b0RldGFsaGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Pages/ProdutoPorCategoria.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHV0b1BvckNhdGVnb3JpYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/CarrinhoMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENhcnJpbmhvTWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/ExibirErro.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV4aWJpckVycm8ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/ExibirSpinner.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV4aWJpclNwaW5uZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/ProdutoCategoriaNavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2R1dG9DYXRlZ29yaWFOYXZNZW51LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/SurveyPrompt.razor]
@@ -52,6 +64,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-5trkdmoo5l
 
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/ExibirSpinner.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEV4aWJpclNwaW5uZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-iowq05f1kb
+
 [C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-efylwoeoog
@@ -59,6 +75,10 @@ build_metadata.AdditionalFiles.CssScope = b-efylwoeoog
 [C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-iwltllzn5i
+
+[C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Shared/ProdutoCategoriaNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2R1dG9DYXRlZ29yaWFOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-ons8sd3iry
 
 [C:/Users/thalita.paz/Documents/ESTUDOS/BLAZOR/BlazorAuth/BlazorAuth.Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
