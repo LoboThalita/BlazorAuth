@@ -1,0 +1,10 @@
+﻿.div {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    color: white;
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    align-items:center;
+    margin-top:5%;
+    margin-left: 35%;
+}

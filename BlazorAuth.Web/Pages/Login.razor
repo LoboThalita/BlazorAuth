@@ -1,0 +1,54 @@
+﻿@page "/Login"
+@using BlazorAuth.Web.Services;
+@using Radzen.Blazor
+@using Radzen;
+
+@inject BlazorAppLoginService BlazorAppLoginService
+@inject NavigationManager navigation
+
+<div class="row justify-content-center div">
+    <div class="col-xl-4 d-flex p-3">
+        <form>
+            <div class="form-group">
+                <label for="exampleInputEmail1">Email</label>
+                <input type="email" class="form-control" @bind="email">
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label for="exampleInputPassword1">Senha</label>
+                <input type="password" class="form-control" @bind="senha">
+            </div>
+            <br />
+
+            <button type="submit" @onclick="LoginAsync" class="btn btn-primary">Entrar</button>
+        </form>
+    </div>
+</div>
+
+
+@code
+{
+    private bool loginFailed;
+    private string email;
+    private string senha;
+
+    protected override async Task OnInitializedAsync()
+    {
+        Console.WriteLine("Hello");
+    }
+
+    private async Task LoginAsync()
+    {
+        var loginResult = await BlazorAppLoginService.LoginAsync(email,senha);
+        if (loginResult)
+        {
+            loginFailed = false;
+            navigation.NavigateTo("/", true);
+        }
+        else
+        {
+            loginFailed = true;
+        }
+    }
+}

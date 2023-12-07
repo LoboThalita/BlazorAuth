@@ -1,0 +1,12 @@
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\bin\Release\net6.0\BlazorAuth.Models.deps.json
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\bin\Release\net6.0\BlazorAuth.Models.dll
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\bin\Release\net6.0\BlazorAuth.Models.pdb
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\obj\Release\net6.0\BlazorAuth.Models.csproj.AssemblyReference.cache
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\obj\Release\net6.0\BlazorAuth.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\obj\Release\net6.0\BlazorAuth.Models.AssemblyInfoInputs.cache
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\obj\Release\net6.0\BlazorAuth.Models.AssemblyInfo.cs
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\obj\Release\net6.0\BlazorAuth.Models.csproj.CoreCompileInputs.cache
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\obj\Release\net6.0\BlazorAuth.Models.dll
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\obj\Release\net6.0\refint\BlazorAuth.Models.dll
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\obj\Release\net6.0\BlazorAuth.Models.pdb
+C:\Users\thalita.paz\Documents\ESTUDOS\BLAZOR\BlazorAuth\BlazorAuth.Models\obj\Release\net6.0\ref\BlazorAuth.Models.dll

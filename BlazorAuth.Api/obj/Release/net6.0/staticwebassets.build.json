@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xi3BIjJCDFoIfVFvzv3v8EeOI1Anms65uRhtOlnF5SE=",
+  "Source": "BlazorAuth.Api",
+  "BasePath": "_content/BlazorAuth.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
